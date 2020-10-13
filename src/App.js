@@ -1,10 +1,10 @@
 import React from 'react';
-import Profilelem from './components/Contact';
+import ContactList from './components/ContactList';
 
 function App() {
   return (
     <div className="App">
-      <Profilelem />
+      <ContactList />
     </div>
   );
 }
